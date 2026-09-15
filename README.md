@@ -39,5 +39,5 @@ need the `@CitadelAdmin` server-side mod. Everything else works without it.
 
 ## Support
 
-Open a ticket at <https://tickets.citadel-hub.com>. Quote the licence id from
+Open a ticket at <https://app.citadel-hub.com/support>. Quote the licence id from
 your claim page — it is your proof of purchase.
