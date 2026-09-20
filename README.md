@@ -1,14 +1,14 @@
 # Citadel Server Manager — releases
 
-The Windows app that installs, configures and operates DayZ dedicated servers
-from the machine that hosts them: SteamCMD deploys, Workshop mods,
-`serverDZ.cfg`, RCON, a live map, scheduled restarts, backups and bans.
-
-**This repo carries the installers and the auto-update feed. The source is private.**
-
 This app runs on a VPS or dedicated box you control. It will not run on a
 rented host (Nitrado, GPORTAL, Vykix). For those, use
 <https://citadel-hub.com/hosts>: one workshop mod and one file. No Windows app.
+
+The Windows app that installs, configures and operates DayZ dedicated servers
+on that machine: SteamCMD deploys, Workshop mods,
+`serverDZ.cfg`, RCON, a live map, scheduled restarts, backups and bans.
+
+**This repo carries the installers and the auto-update feed. The source is private.**
 
 ## Download
 
